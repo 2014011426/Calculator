@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_activity_unit_conversion_">UnitConversion_Activity</string>
+</resources>
